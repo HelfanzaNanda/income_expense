@@ -42,16 +42,3 @@ npm run dev
 # running
 php artisan serve
 ```
-
- 
-## CREDENTIALS
-
-```python
-# ADMIN
-username : admin@example.com
-password : password
-
-# USER
-username : user@example.com
-password : password
-```
